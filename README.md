@@ -5,14 +5,14 @@
 
 使用`PL.bat <类型>`然后运行生成的run.bat进行批量处理
 ### 看起来可能像这样
-![jpg1][1]
+![png1][1]
 这说明你很成功
 # ffmpeg transcoding MP4 tool script
 ## Drag the file to be transcoded into MP4 .bat to transcode a single file
 
 Use `PL.bat <type>`and then run the generated run.bat for batch processing
 ### It might look like this
-![jpg1][1]
+![png1][1]
 This shows that you are successful.
 
 [1]:Transcode_scripts/assets/20230211212728.png
